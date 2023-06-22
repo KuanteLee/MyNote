@@ -13,3 +13,6 @@
   
 ## Listening 
 [TED-Ed](https://ed.ted.com/lessons?direction=desc&sort=featured-position)
+  
+## 心得分享 
+[英文弱底托福備考必看|多益300➡️五戰托福87➡️錄取美國top10名校西北大學備考方式及心路歷程](https://www.youtube.com/watch?v=L22WnGtDXII)
