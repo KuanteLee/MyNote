@@ -1,6 +1,7 @@
 | School         | Program      | Toefl  | 入學時間 | Deadline | 就讀時間  | cost  | location | STEAM    |
 | -------------- | ------------ | ------ | ------- | -------- | ------- | ----- | ---- | -------- |
 | UCLA Extansion | Data Science | 83-100 | ------- | -------- | 9 - 12 months | $14000 | LA | NO       |
+| UCB Extansion | Data Science |  | ------- | -------- | 9 months | | | NO       |
 
 ## Visa
 [(知乎) - 美国H1B签证抽签失败了怎么办？](https://www.zhihu.com/question/21014657)  
@@ -10,6 +11,7 @@
 
 
 ## UCLA Extension - Data Science
+校友會？ 實習？  
 開課日期：一年 4 次。春季 (3-6月)、夏季(6-9月)、秋季(9-12月)、冬季(1-3月)  
 上課時間：週一至週五晚上 (6:30PM - 9:30PM or 7PM - 10PM)  
 
