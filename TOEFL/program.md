@@ -4,6 +4,7 @@
 
 ## Visa
 [(知乎) - 美国H1B签证抽签失败了怎么办？](https://www.zhihu.com/question/21014657)  
+[(一畝三分地) - [H1B]【干货】全网Day-1CPT最全解析帖——一文搞懂CPT学校那点事](https://www.1point3acres.com/bbs/thread-807825-2-1.html)  
 
 ## 生活費 
 
