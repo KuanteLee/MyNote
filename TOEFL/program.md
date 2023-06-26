@@ -1,4 +1,7 @@
 # Master Degree Program
+| School         | Program      | Toefl  | 入學時間 | Deadline | 就讀時間  | cost  | location | STEAM    |
+| -------------- | ------------ | ------ | ------- | -------- | ------- | ----- | ---- | -------- |
+| CMU | Master of Information Technology Strategy | 100 | ------- | -------- | |  |  |        |
 
 
 # Extension Program 
