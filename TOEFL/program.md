@@ -3,6 +3,8 @@
 | UCLA Extansion | Data Science | 83-100 | ------- | -------- | 9 - 12 months | $14000 | LA | NO       |
 | UCB Extansion | Data Science |  | ------- | -------- | 9 months | | | NO       |
 
+心得文平均 GPA et.al  
+  
 ## Visa
 [(知乎) - 美国H1B签证抽签失败了怎么办？](https://www.zhihu.com/question/21014657)  
 [(一畝三分地) - [H1B]【干货】全网Day-1CPT最全解析帖——一文搞懂CPT学校那点事](https://www.1point3acres.com/bbs/thread-807825-2-1.html)  
