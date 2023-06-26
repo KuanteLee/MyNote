@@ -1,6 +1,7 @@
 # To-Do
 - Try to testing vector search embedding on Image and video et.al data
-- Baseline is BM25, inner product et, al 
+- Baseline is BM25, inner product et, al
+- 實驗1: 單純用 question, 實驗2: title + content
 
 # Note
 [ann-benchmarks.com](https://ann-benchmarks.com/index.html) : a benchmarking environment for approximate nearest neighbor algorithms search.  
