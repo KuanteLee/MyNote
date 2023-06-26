@@ -13,7 +13,6 @@
 [(一畝三分地) - [H1B]【干货】全网Day-1CPT最全解析帖——一文搞懂CPT学校那点事](https://www.1point3acres.com/bbs/thread-807825-2-1.html)  
 
 ## UCLA Extension - Data Science
-校友會？ 實習？  
 開課日期：一年 4 次。春季 (3-6月)、夏季(6-9月)、秋季(9-12月)、冬季(1-3月)  
 上課時間：週一至週五晚上 (6:30PM - 9:30PM or 7PM - 10PM)  
 
