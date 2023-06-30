@@ -13,6 +13,7 @@ NOTE:
 - GPA: 3.174,
 - [Open CS Application](https://opencs.app/)
 - [Explore: Best Colleges & Universities to Study Abroad](https://yocket.com/universities?pc_name=Computer%20Science&display_name=Popularity&s_name=views&s_order=desc&c_name=United%20States&page=3&is_gre_required=WAIVED)
+- [(一畝三分地) - Offer 多多](https://offer.1point3acres.com/)
 
 # Reference
 - [[錄取]中低GPA錄取CMU/UIUC 2022Fall 美國CS碩](https://moptt.tw/p/studyabroad.M.1660512415.A.89A)
