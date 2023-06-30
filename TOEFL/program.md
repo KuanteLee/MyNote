@@ -1,10 +1,10 @@
 # Master Degree Program
 | School         | Program      | Toefl  | Deadline | 就讀時間  | cost  | Ranked | Stage |
 | -------------- | ------------ | ------ | -------- | ------- | ----- | -------- | -------- |
-| CMU | Master of Information Technology Strategy (MITS) | 100 | -------- | |  |  | 衝刺 | 
-| CMU | MISM | 100 | -------- | |  |  | 衝刺 | 
+| CMU | Master of Information Technology Strategy (MITS) | | -------- | |  |  | 衝刺 | 
+| CMU | MISM | | -------- | |  |  | 衝刺 | 
 | Cornell tech | CM | | -------- | |  |  | 衝刺 | 
-| UIUC | MSIM | | -------- | |  |  | 衝刺 | 
+| UIUC | MSIM | | -------- | |  |  | 主申 | 
 | UW | MSIM | | -------- | |  |  | 衝刺 | 
 
 NOTE:
@@ -15,6 +15,7 @@ NOTE:
 - [Explore: Best Colleges & Universities to Study Abroad](https://yocket.com/universities?pc_name=Computer%20Science&display_name=Popularity&s_name=views&s_order=desc&c_name=United%20States&page=3&is_gre_required=WAIVED)
 
 # Reference
+- [[錄取]中低GPA錄取CMU/UIUC 2022Fall 美國CS碩](https://moptt.tw/p/studyabroad.M.1660512415.A.89A)
 - [美國 USA｜資訊碩士申請心得｜UMich MHI/IUB MIS/NEU MSIS 低GPA 轉領域](https://medium.com/roywannago-%E6%97%85%E8%A1%8C%E4%B8%8D%E9%9C%80%E7%90%86%E7%94%B1/%E7%BE%8E%E5%9C%8B%E8%B3%87%E8%A8%8A%E7%A2%A9%E5%A3%AB%E7%94%B3%E8%AB%8B%E5%BF%83%E5%BE%97-umich-mhi-iub-mis-neu-msis-%E4%BD%8Egpa-%E8%BD%89%E9%A0%98%E5%9F%9F-93953cbfa808)
 - [2022Fall 商科轉CS心得 CMU SV/VT/NEU SES](https://seanleetech.com/%E7%95%99%E5%AD%B8/223/)
 - [如何從完全沒有CS/IT background的文組商科申請CS/IT Master’s Programs](https://joycewang821993-67612.medium.com/2021-fall-%E9%8C%84%E5%8F%96-university-of-chicago-mpcs-%E5%A6%82%E4%BD%95%E5%BE%9E%E5%AE%8C%E5%85%A8%E6%B2%92%E6%9C%89cs-it-background%E7%9A%84%E6%96%87%E7%B5%84%E5%95%86%E7%A7%91%E8%BD%89cs-it-master-part-i-8c6986679d02)
