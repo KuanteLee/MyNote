@@ -1,3 +1,6 @@
+(Now   - 08/20, 7 weeks) Finish TPO 1-20 Reading and Listening, avg. 3 question per day.
+(08/21 - 10/28, 10 weeks) Finish TPO 21-49.
+
 [托福報名Q&A](https://www.elite-center.com.tw/toefl-register.html)  
   
 ## 模擬試題
