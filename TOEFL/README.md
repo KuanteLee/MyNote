@@ -16,6 +16,7 @@
 [SK2 - 專欄](http://sk2toefl.blogspot.com/p/rosa_20.html) 
 
 ## Reading
+動詞, 形容詞要記好。
 ### SQ3R
 - Survey: skim for main ideas
 - Question: ask question
